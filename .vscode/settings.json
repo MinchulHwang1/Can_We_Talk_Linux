@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"pthread.h": "c",
+		"executor": "c",
+		"mutex": "c",
+		"threading.h": "c",
+		"stdbool.h": "c",
+		"queue.h": "c",
+		"client-manager.h": "c"
+	}
+}
